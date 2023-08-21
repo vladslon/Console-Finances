@@ -1,5 +1,5 @@
 # Console-Finances
-
+![screenshot](javascript.png)
 Input Data
 
 -  finances array. Each entry in the array consists of two elements:
